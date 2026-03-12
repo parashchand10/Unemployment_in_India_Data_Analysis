@@ -24,30 +24,12 @@ The dataset used in this analysis contains several features relevant to unemploy
 6. Estimated Labor Participation Rate (%): The percentage of working-age people either working or actively looking for work.
 7. Area: Whether the data is from a Rural or Urban region.
 
-## Project Workflow
-
-### Data Preprocessing:
-
-1. Load and clean the dataset to remove any inconsistencies or missing values.
-2. Perform feature engineering for better data handling and understanding.
-
-### Exploratory Data Analysis (EDA):
-
-1. Analyze the data to identify trends, correlations, and insights.
-2. Use visualizations to display the unemployment and employment trends across different regions.
-
-### Data Visualization:
-
-1. Generate graphs and charts (using libraries like Matplotlib and Seaborn) to visualize unemployment rates, employment numbers, and labor force participation.
-
 ### Insights and Conclusion:
 
 1. Draw meaningful conclusions from the analysis.
-
 2. Identify key patterns, such as which regions have the highest unemployment rates and which areas have higher labor force participation.
 
 ### Libraries Used
 
 1. Pandas: For efficient data manipulation and analysis.
-
 2. Matplotlib and Seaborn: For data visualization and creating insightful graphs.
