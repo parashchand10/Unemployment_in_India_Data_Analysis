@@ -1,6 +1,6 @@
 # Unemployment in India: Data Analysis and Insights
 
-<img src="/unemployment.png" alt="Unemployment Analysis" width="600" height="400" />
+<img src="/unemployment.png" alt="Unemployment Analysis" width="500" height="500" />
 
 ### Overview
 
