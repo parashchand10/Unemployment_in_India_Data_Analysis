@@ -11,7 +11,7 @@ The goal of this project is to explore and understand unemployment trends in Ind
 - Regional unemployment rates.
 - Employment numbers across regions.
 - Labor participation rates over time.
-- How much unemployment rate percentage  by year?
+- How does unemployment rate differ between Urban and Rural areas?
 
 ### Dataset Information
 
