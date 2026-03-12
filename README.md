@@ -9,6 +9,9 @@ This project focuses on analyzing unemployment trends in India, using various da
 The goal of this project is to explore and understand unemployment trends in India by analyzing:
 ```
 Q. How are the numerical features in the unemployment dataset correlated with each other?
+```
+![Alt text](image-url)
+```
 Q. How does unemployment rate differ between Urban and Rural areas?
 Q. Which regions have the highest average unemployment rate?
 Q. How does unemployment rate differ between Urban and Rural areas?
