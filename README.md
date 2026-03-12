@@ -7,11 +7,11 @@ This project focuses on analyzing unemployment trends in India, using various da
 ### Problem Statement
 
 The goal of this project is to explore and understand unemployment trends in India by analyzing:
-
-- Regional unemployment rates.
-- Employment numbers across regions.
-- Labor participation rates over time.
+- How are the numerical features in the unemployment dataset correlated with each other?
 - How does unemployment rate differ between Urban and Rural areas?
+- Which regions have the highest average unemployment rate?
+- How does unemployment rate differ between Urban and Rural areas?
+- How is the estimated unemployed rate distributed across regions/state areas?
 
 ### Dataset Information
 
