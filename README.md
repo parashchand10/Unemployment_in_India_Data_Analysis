@@ -24,11 +24,6 @@ The dataset used in this analysis contains several features relevant to unemploy
 6. Estimated Labor Participation Rate (%): The percentage of working-age people either working or actively looking for work.
 7. Area: Whether the data is from a Rural or Urban region.
 
-### Insights and Conclusion:
-
-1. Draw meaningful conclusions from the analysis.
-2. Identify key patterns, such as which regions have the highest unemployment rates and which areas have higher labor force participation.
-
 ### Libraries Used
 
 1. Pandas: For efficient data manipulation and analysis.
